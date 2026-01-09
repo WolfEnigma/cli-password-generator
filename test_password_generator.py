@@ -14,3 +14,4 @@ def test_cli_options():
     pw = generate_password(16, True, True, True)
     assert len(pw) == 16
 
+# Test for CLI options using pytest
