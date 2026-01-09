@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 import argparse
+=======
+# CLI Password Generator v1.0.0 – secure & configurable
+
+import random
+>>>>>>> 1e0ba75 (chore: add header comment for version info)
 import string
 import secrets
 
